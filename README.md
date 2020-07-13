@@ -1,10 +1,8 @@
 ### Hello ,its vivian here👋
+<img src= "https://github.com/viviansharp/viviansharp/commit/e55d3f38684e47abea31b6d03eed0347e8a48bcb#commitcomment-40574197">
 
 
-<img src = "https://github.com/viviansharp/viviansharp/commit/e55d3f38684e47abea31b6d03eed0347e8a48bcb#commitcomment-40574197">
-<
-
-<!---**viviansharp/viviansharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---**viviansharp/viviansharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
