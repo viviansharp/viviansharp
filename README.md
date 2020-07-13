@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello ,its vivian here👋
 
 <!--
 **viviansharp/viviansharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machine learning project with python
+###-  I’m currently working on machine learning project with python
 - 🌱 I’m currently learning Data science and Ml with python
 - 👯 I’m looking to collaborate on Data science and ML projects
 - 🤔 I’m looking for help with ...
