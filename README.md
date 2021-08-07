@@ -1,10 +1,10 @@
 ### Hello, its vivian here
 
 
-<img src="https://github.com/viviansharp/viviansharp/commit/e55d3f38684e47abea31b6d03eed0347e8a48bcb#commitcomment-40574197">
+![IMG_-1pkesz](https://user-images.githubusercontent.com/32557428/128598769-aa7c9808-636f-4113-b672-35cb68c6ff14.jpg)
 <!---**viviansharp/viviansharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
   A sneek peek into who i am 
- - I’m currently working on machine learning project with python
+ - I’m currently working on a machine learning project with python
 - 🌱 I’m currently learning Data science and Ml with python
 - 👯 I’m looking to collaborate on Data science and ML projects
 - 🤔 I’m looking for help with more projects to hone my skills
